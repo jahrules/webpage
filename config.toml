@@ -11,7 +11,7 @@ paginate = 15
 
 [params]
 description = "Greg Taeger's page"
-defaultTheme = "auto"
+defaultTheme = "dark"
 showReadingTime = true
 showCodeCopyButtons = true
 showPostNavLinks = true
