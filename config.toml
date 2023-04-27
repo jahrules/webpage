@@ -1,0 +1,40 @@
+title = "Greg Taeger"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+copyright = "© 2023-present, Greg Taeger"
+
+theme = "PaperMod"
+
+baseURL = 'http://gregtaeger.com'
+enableRobotsTXT = true
+paginate = 15
+
+[params]
+description = "Greg Taeger's page"
+defaultTheme = "auto"
+showReadingTime = true
+showCodeCopyButtons = true
+showPostNavLinks = true
+env = "development"
+keywords = ["oss", "foss"]
+
+# Shown on the home page
+socialIcons = [
+  { name = "github", url = "https://github.com/jahrules" },
+]
+
+[params.schema]
+publisherType = "Person"
+sameAs = [
+  "https://github.com/jahrules",
+]
+
+# Configure the home page
+[params.profileMode]
+enabled = true
+title = "Hi, I'm Greg"
+subtitle = ""
+imageUrl = "photo.jpg"
+
+[params.assets]
+disableFingerprinting = true
