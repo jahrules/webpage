@@ -30,11 +30,11 @@ sameAs = [
 ]
 
 # Configure the home page
-[params.profileMode]
+[params.homeInfoMode]
 enabled = true
-title = "Hi, I'm Greg"
-subtitle = ""
-imageUrl = "photo.jpg"
+Title = "Hi, I'm Greg"
+#subtitle = ""
+#imageUrl = "photo.jpg"
 
 [params.assets]
 disableFingerprinting = true

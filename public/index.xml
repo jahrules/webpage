@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Greg Taeger</title>
+    <link>www.gregtaeger.com/</link>
+    <description>Recent content on Greg Taeger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023-present, Greg Taeger</copyright>
+    <lastBuildDate>Sat, 20 May 2023 08:52:09 -0400</lastBuildDate><atom:link href="www.gregtaeger.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pypi Suspends Uploads</title>
+      <link>www.gregtaeger.com/posts/pypi-suspends-uploads/</link>
+      <pubDate>Sat, 20 May 2023 08:52:09 -0400</pubDate>
+      
+      <guid>www.gregtaeger.com/posts/pypi-suspends-uploads/</guid>
+      <description>In what is very likely an unprecedented event; this past weekend (5/20-5/21) PyPI.org suspended new user creation and new project additions.
+As explained in their incident page: the volume of malware has grown to a level that the administrators couldn&amp;rsquo;t keep up. (Read: they needed a break)
+I, rather suspect that the volume of malware is a side effect of recent media attention on the PyPI repository as an attack vector combined with the efforts of security organizations such a Vipyr Security in scanning PyPI&amp;rsquo;s repositories for threat actors.</description>
+    </item>
+    
+  </channel>
+</rss>

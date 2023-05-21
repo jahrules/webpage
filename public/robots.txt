@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: www.gregtaeger.com/sitemap.xml

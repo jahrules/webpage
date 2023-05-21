@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>www.gregtaeger.com/</loc>
+    <lastmod>2023-05-20T08:52:09-04:00</lastmod>
+  </url><url>
+    <loc>www.gregtaeger.com/posts/</loc>
+    <lastmod>2023-05-20T08:52:09-04:00</lastmod>
+  </url><url>
+    <loc>www.gregtaeger.com/posts/pypi-suspends-uploads/</loc>
+    <lastmod>2023-05-20T08:52:09-04:00</lastmod>
+  </url><url>
+    <loc>www.gregtaeger.com/categories/</loc>
+  </url><url>
+    <loc>www.gregtaeger.com/tags/</loc>
+  </url>
+</urlset>
